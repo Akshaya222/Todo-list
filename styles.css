@@ -1,0 +1,40 @@
+body{
+    background-image: linear-gradient(to top left,#2569cf,#3a18c4,#943bed,#c21ddb)!important;
+    color: #000;
+}
+h1{
+   text-align: center;
+   margin-top: 4rem;
+   font-size: 7rem!important;
+}
+div{
+    margin-top: 4rem;
+    width: 80%;
+}
+.inputform{
+    margin: 30px auto 30px!important;
+}
+label{
+    color: #000!important;
+}
+#submit,#clearstorage{
+    background:linear-gradient(#843491,#3a18c4);
+    border-radius: 5px;
+    box-shadow: 2px 3px 4px pink;
+    margin-right: 10px;
+    padding: 10px;
+    color: #cabecc;
+}
+.btn-class{
+    margin: 0 auto!important;
+}
+h2{
+    text-align: center;
+    color: #000!important;
+}
+#tablebody{
+    color: #fff!important;
+}
+#tablebody button{
+    background-color: #943bed;
+}
